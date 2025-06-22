@@ -1,4 +1,3 @@
-# Over-Encoding-Technic-for-Language-Models
 
 
 # Decoupling Input and Output Vocabularies Using Over Encoding on GPT-2

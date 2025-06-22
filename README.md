@@ -32,7 +32,7 @@ The experiments are organized into three main categories:
 
 ### 3. **Extension to 4-gram and 5-gram Embeddings**
 
-- **Directory:** `4-gram`
+- **Directory:** `4_gram_experiments`
 - The multi-gram embedding approach was further extended to include 4-grams and 5-grams.
 - While results followed the same performance trends, gains diminished with higher-order n-grams due to increased complexity and reduced benefit.
 
@@ -57,7 +57,7 @@ National Technical University of Athens
 ## 📄 Report
 
 For a comprehensive explanation of the methodology and results, please refer to the final report:  
-**`NLP_Semester_Assignment_Final_Report.pdf`**
+**`Report.pdf`**
 
 ---
 
